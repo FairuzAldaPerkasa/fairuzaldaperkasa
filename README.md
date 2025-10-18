@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://skyline.github.com/fairuzaldaperkasa/TAHUN">
-    <img src="https://skyline.github.com/fairuzaldaperkasa/TAHUN.png" alt="GitHub Skyline" width="100%"/>
-  </a>
-</p>
-
 <div align="center">
   <h1>
     Fairuz Alda Perkasa
