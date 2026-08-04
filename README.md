@@ -75,8 +75,16 @@ Mahasiswa **Informatika** di **Universitas Ahmad Dahlan** dengan fokus pada **Fu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fairuzaldaperkasa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzaldaperkasa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffairuzaldaperkasa&label=Public%20Repos&query=%24.public_repos&color=00BFFF&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffairuzaldaperkasa&label=Followers&query=%24.followers&color=8A2BE2&style=for-the-badge&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffairuzaldaperkasa&label=Following&query=%24.following&color=00BFFF&style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+![MPTI_TRAVEL Stars](https://img.shields.io/github/stars/fairuzaldaperkasa/MPTI_TRAVEL?style=for-the-badge&color=FFD700&label=%E2%98%85%20MPTI_TRAVEL)
+![Project-Capstone Stars](https://img.shields.io/github/stars/fairuzaldaperkasa/Project-Capstone?style=for-the-badge&color=FFD700&label=%E2%98%85%20Project-Capstone)
+
 </div>
 
 <br/>
