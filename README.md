@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=200&section=header&text=Fairuz%20Alda%20Perkasa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=180&section=header&text=Fairuz%20Alda%20Perkasa&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=%22Turning+data+into+decisions%22;Membangun+solusi+dari+kode+dan+data;Full-Stack+Developer+%7C+ML+Enthusiast;Selalu+belajar%2C+selalu+membangun." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=%22Turning+data+into+decisions%22;Membangun+solusi+dari+kode+dan+data;Full-Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fairuzaldaperkasa&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/fairuzaldaperkasa?label=Followers&style=for-the-badge&color=8A2BE2" alt="followers"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fairuzaldaperkasa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fairuzaldaperkasa@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=fairuzaldaperkasa&style=for-the-badge&color=8A2BE2&label=Profile+Views)](https://github.com/fairuzaldaperkasa)
 
 </div>
 
@@ -17,22 +18,28 @@
 
 ## 👋 Tentang Saya
 
-```python
-class FairuzAldaPerkasa:
-    def __init__(self):
-        self.role = "Informatics Student @ Universitas Ahmad Dahlan"
-        self.focus = ["Full-Stack Web Development", "Data Science & AI"]
-        self.currently_working_on = "IT Intern @ PT. Sasa Inti"
-        self.mission = "Membangun aplikasi yang cerdas, efisien, dan berdampak"
+Mahasiswa **Informatika** di **Universitas Ahmad Dahlan** dengan fokus pada **Full-Stack Web Development** dan **Data Science / AI**. Senang mengubah masalah kompleks menjadi solusi yang rapi, terukur, dan berdampak nyata.
 
-    def say_hi(self):
-        print("Halo! Selamat datang di profil saya 🚀")
+<table>
+<tr>
+<td width="50%" valign="top">
 
-me = FairuzAldaPerkasa()
-me.say_hi()
-```
+**🎯 Fokus saat ini**
+- Information Technology Intern @ **PT. Sasa Inti**
+- Menyelesaikan studi S1 Informatika (2022–2026)
+- Memperdalam Machine Learning & Cloud
 
-Mahasiswa **Informatika** di **Universitas Ahmad Dahlan** dengan minat besar di persimpangan antara **Full-Stack Web Development** dan **Data Science / AI**. Suka mengubah masalah kompleks jadi solusi yang rapi, terukur, dan bisa dipakai orang banyak.
+</td>
+<td width="50%" valign="top">
+
+**💡 Minat**
+- Full-Stack Web Development
+- Data Science & Machine Learning
+- Cloud Computing (GCP)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -40,17 +47,26 @@ Mahasiswa **Informatika** di **Universitas Ahmad Dahlan** dengan minat besar di 
 
 <div align="center">
 
-**Languages & Frameworks**
+**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=php,kotlin,python,js,html,css,jquery&perline=7"/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Data, AI & Cloud**
+**Web & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,mysql,gcp&perline=7"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Tools**
+**Tools & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,docker&perline=7"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -63,41 +79,43 @@ Mahasiswa **Informatika** di **Universitas Ahmad Dahlan** dengan minat besar di 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzaldaperkasa&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzaldaperkasa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fairuzaldaperkasa&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffeb95&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fairuzaldaperkasa&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
 <br/>
 
 ## 🚀 Proyek Unggulan
 
 <div align="center">
-  <a href="https://github.com/fairuzaldaperkasa/MPTI_TRAVEL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fairuzaldaperkasa&repo=MPTI_TRAVEL&theme=tokyonight" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/fairuzaldaperkasa/Project-Capstone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fairuzaldaperkasa&repo=Project-Capstone&theme=tokyonight" alt="Project 2"/>
-  </a>
+
+| Proyek | Deskripsi | Link |
+|---|---|---|
+| **MPTI_TRAVEL** | Aplikasi web terkait manajemen perjalanan/travel | [🔗 Repo](https://github.com/fairuzaldaperkasa/MPTI_TRAVEL) |
+| **Project-Capstone** | Proyek capstone — implementasi solusi end-to-end | [🔗 Repo](https://github.com/fairuzaldaperkasa/Project-Capstone) |
+
 </div>
 
 <br/>
 
 ## 💼 Pengalaman & Pendidikan
 
-```text
-2025 — Sekarang     Information Technology Intern @ PT. Sasa Inti
-2024                Machine Learning Cohort, Bangkit Academy (led by Google, dkk.)
-2022 — 2026         S1 Informatika, Universitas Ahmad Dahlan
-2023 — Sekarang     Asisten Laboratorium Komputer, UAD (>1.5 tahun)
-```
+<details open>
+<summary><strong>💻 Pengalaman Profesional & Akademik</strong></summary>
+<br/>
+
+| Periode | Peran |
+|---|---|
+| Agustus 2025 – Sekarang | **Information Technology Intern** — PT. Sasa Inti |
+| 2024 | **Machine Learning Cohort** — Bangkit Academy (dipimpin oleh Google, dkk.) |
+| \>1.5 tahun | **Asisten Laboratorium Komputer** — Universitas Ahmad Dahlan |
+
+</details>
+
+<details>
+<summary><strong>🎓 Pendidikan</strong></summary>
+<br/>
+
+**S1 Informatika** — Universitas Ahmad Dahlan (2022 – 2026)
+Fokus pada dasar-dasar ilmu komputer, rekayasa perangkat lunak, dan kecerdasan buatan.
+
+</details>
 
 <details>
 <summary><strong>🏆 Sertifikasi Profesional</strong></summary>
@@ -112,23 +130,15 @@ Mahasiswa **Informatika** di **Universitas Ahmad Dahlan** dengan minat besar di 
 
 <br/>
 
-## 🎧 Now Playing
-
-<div align="center">
-  <img src="https://github-readme-spotify.vercel.app/api/spotify?user=FairuzZzZz&theme=dark&show_icon=true&locale=en" alt="Spotify Now Playing"/>
-</div>
-
-<br/>
-
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fairuzaldaperkasa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fairuzaldaperkasa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
+Tertarik untuk berkolaborasi atau sekadar diskusi seputar teknologi dan data? Jangan ragu menghubungi saya.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fairuzaldaperkasa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fairuzaldaperkasa@gmail.com)
+
 </div>
 
 <br/>
