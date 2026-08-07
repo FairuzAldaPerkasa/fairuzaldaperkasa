@@ -152,3 +152,13 @@ Tertarik untuk berkolaborasi atau sekadar diskusi seputar teknologi dan data? Ja
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=100&section=footer"/>
 </div>
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/185wge1tumk0qf413c7tnpv6-dark.svg?v=1786087869955">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/185wge1tumk0qf413c7tnpv6-light.svg?v=1786087869955">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/185wge1tumk0qf413c7tnpv6-dark.svg?v=1786087869955">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
